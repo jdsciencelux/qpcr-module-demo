@@ -103,13 +103,8 @@ Scientific and biomedical training often suffers from dense, text-heavy delivery
 
 ---
 
-## Preview
-
-### Screenshots
-(Add screenshots or GIFs here)
-
 ### Live Demo
-(Add live module link here)
+[(https://jdsciencelux.github.io/qpcr-module-demo/)]
 
 ---
 
